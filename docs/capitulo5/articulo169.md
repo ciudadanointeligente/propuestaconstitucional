@@ -1,0 +1,20 @@
+---
+layout: default
+title: Artículo 169
+parent: Buen gobierno y función pública
+nav_order: 5
+---
+
+---
+
+## CAPÍTULO V 
+# Buen gobierno y función pública
+
+---
+
+## Artículo 169
+
+1. El Consejo para la Transparencia es un órgano autónomo, especializado y objetivo con personalidad jurídica y patrimonio propio, encargado de promover la transparencia de la función pública, fiscalizar el cumplimiento de las normas sobre transparencia y publicidad de la información de los órganos del Estado y garantizar el derecho de acceso a la información pública.
+2. La ley regulará su composición, organización, funcionamiento y atribuciones.
+
+---

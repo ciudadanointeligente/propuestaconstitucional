@@ -1,0 +1,19 @@
+---
+layout: default
+title: Artículo 29
+parent: Derechos fundamentales y garantías
+nav_order: 13
+---
+
+---
+
+## CAPÍTULO II
+# Derechos fundamentales y garantías
+
+---
+
+## Artículo 29
+
+El Estado reconoce la neurodiversidad y garantiza a las personas neurodivergentes su derecho a una vida autónoma, a desarrollar libremente su personalidad e identidad, a ejercer su capacidad jurídica y los derechos reconocidos en esta Constitución y los tratados e instrumentos internacionales de derechos humanos ratificados y vigentes en Chile.
+
+---

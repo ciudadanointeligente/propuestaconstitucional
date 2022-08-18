@@ -1,0 +1,19 @@
+---
+layout: default
+title: Artículo 329
+parent: Sistemas de justicia
+nav_order: 24
+---
+
+---
+
+## CAPÍTULO IX
+# Sistemas de justicia
+
+---
+
+## Artículo 329
+
+La Corte Suprema conocerá y resolverá las impugnaciones deducidas en contra de las decisiones de la jurisdicción indígena, lo hará en sala especializada y asistida por una consejería técnica integrada por expertos en su cultura y derecho propio, en la forma que establezca la ley.
+
+---

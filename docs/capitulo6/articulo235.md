@@ -1,0 +1,19 @@
+---
+layout: default
+title: Artículo 235
+parent: Estado regional y organización territorial
+nav_order: 49
+---
+
+---
+
+## CAPÍTULO VI
+# Estado regional y organización territorial
+
+---
+
+## Artículo 235
+
+La ley deberá establecer las competencias exclusivas de las autonomías territoriales indígenas y las compartidas con las demás entidades territoriales. Las autonomías territoriales indígenas deberán tener las competencias y el financiamiento necesarios para el adecuado ejercicio del derecho de libre determinación de los pueblos y naciones indígenas.
+
+---

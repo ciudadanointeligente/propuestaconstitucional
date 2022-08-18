@@ -1,0 +1,19 @@
+---
+layout: default
+title: Artículo 11
+parent: Principios y disposiciones generales
+nav_order: 11
+---
+
+---
+
+## CAPÍTULO I 
+# Principios y disposiciones generales
+
+---
+
+## Artículo 11
+
+El Estado reconoce y promueve el diálogo intercultural, horizontal y transversal entre las diversas cosmovisiones de los pueblos y naciones que conviven en el país, con dignidad y respeto recíprocos. El ejercicio de las funciones públicas debe garantizar los mecanismos institucionales y la promoción de políticas públicas que favorezcan el reconocimiento y la comprensión de la diversidad étnica y cultural, superando las asimetrías existentes en el acceso, la distribución y el ejercicio del poder, así como en todos los ámbitos de la vida en sociedad.
+
+---

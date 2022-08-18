@@ -1,0 +1,21 @@
+---
+layout: default
+title: Artículo 278
+parent: Poder legislativo
+nav_order: 28
+---
+
+---
+
+## CAPÍTULO VII
+# Poder legislativo
+
+---
+
+## Artículo 278
+
+1. El Congreso de Diputadas y Diputados y la Cámara de las Regiones contarán con una Unidad Técnica dependiente administrativamente del Congreso.
+2. Su Secretaría Legislativa estará encargada de asesorar en los aspectos jurídicos de las leyes que tramiten. Podrá, asimismo, emitir informes sobre ámbitos de la legislación que hayan caído en desuso o que presenten problemas técnicos.
+3. Su Secretaría de Presupuestos estará encargada de estudiar el efecto presupuestario y fiscal de los proyectos de ley y de asesorar a diputadas, diputados y representantes regionales durante la tramitación de la Ley de Presupuestos.
+
+---

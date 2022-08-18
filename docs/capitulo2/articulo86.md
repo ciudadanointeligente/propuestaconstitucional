@@ -1,0 +1,27 @@
+---
+layout: default
+title: Artículo 86
+parent: Derechos fundamentales y garantías
+nav_order: 70
+---
+
+---
+
+## CAPÍTULO II
+# Derechos fundamentales y garantías
+
+---
+
+## Artículo 86
+
+1. Toda persona tiene derecho al acceso universal a la conectividad digital y a las tecnologías de la información y comunicación.
+2. El Estado garantiza el acceso libre, equitativo y descentralizado, con condiciones de calidad y velocidad adecuadas y efectivas, a los servicios básicos de comunicación.
+3. Es deber del Estado promover y participar del desarrollo de las telecomunicaciones, servicios de conectividad y tecnologías de la información y comunicación. La ley regulará la forma en que el Estado cumplirá este deber.
+4. El Estado tiene la obligación de superar las brechas de acceso, uso y participación en el espacio digital y en sus dispositivos e infraestructuras.
+5. El Estado garantiza el cumplimiento del principio de neutralidad en la red. Las obligaciones, las condiciones y los límites en esta materia serán determinados por la ley.
+6. La infraestructura de telecomunicaciones es independientemente de su régimen patrimonial, de interés público.
+7. Corresponderá a la ley determinar la utilización y el aprovechamiento del espectro radioeléctrico.
+
+---
+- Evaluación de este artículo en La Constitución es Nuestra por Multitudes
+<a target="_blank" href="https://laconstitucionesnuestra.cl/evaluaciones/verevaluaciones/70">Leer acá!</a>

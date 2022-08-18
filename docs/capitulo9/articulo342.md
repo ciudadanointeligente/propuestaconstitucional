@@ -1,0 +1,20 @@
+---
+layout: default
+title: Artículo 342
+parent: Sistemas de justicia
+nav_order: 37
+---
+
+---
+
+## CAPÍTULO IX
+# Sistemas de justicia
+
+---
+
+## Artículo 342
+
+1. El Consejo de la Justicia es un órgano autónomo, técnico, paritario y plurinacional, con personalidad jurídica y patrimonio propio, cuya finalidad es fortalecer la independencia judicial. Está encargado de los nombramientos, gobierno, gestión, formación y disciplina en el Sistema Nacional de Justicia.
+2. En el ejercicio de sus atribuciones debe considerar el principio de no discriminación, la inclusión, la paridad de género, la equidad territorial y la plurinacionalidad.
+
+---

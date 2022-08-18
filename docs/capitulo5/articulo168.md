@@ -1,0 +1,19 @@
+---
+layout: default
+title: Artículo 168
+parent: Buen gobierno y función pública
+nav_order: 4
+---
+
+---
+
+## CAPÍTULO V 
+# Buen gobierno y función pública
+
+---
+
+## Artículo 168
+
+Los órganos del Estado y quienes ejercen una función pública deben rendir cuenta y asumir la responsabilidad en el ejercicio de su cargo, en la forma y las condiciones que establezca la ley. El Estado promoverá la participación activa de las personas y la sociedad civil en la fiscalización del cumplimiento de este deber.
+
+---

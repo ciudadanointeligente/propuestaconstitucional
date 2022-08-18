@@ -1,0 +1,19 @@
+---
+layout: default
+title: Artículo 204
+parent: Estado regional y organización territorial
+nav_order: 18
+---
+
+---
+
+## CAPÍTULO VI
+# Estado regional y organización territorial
+
+---
+
+## Artículo 204
+
+La alcaldesa o el alcalde, con aprobación del concejo municipal, podrá establecer delegaciones para el ejercicio de las facultades de la comuna autónoma en los casos y las formas que determine la ley.
+
+---

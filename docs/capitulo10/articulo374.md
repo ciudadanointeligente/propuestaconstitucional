@@ -1,0 +1,20 @@
+---
+layout: default
+title: Artículo 374
+parent: Órganos autónomos constitucionales
+nav_order: 26
+---
+
+---
+
+## CAPÍTULO X
+# Órganos autónomos constitucionales
+
+---
+
+## Artículo 374
+
+1. La función de defensa penal pública será ejercida por defensoras y defensores penales públicos.
+2. Los servicios de defensa jurídica que preste la Defensoría Penal Pública no podrán ser licitados o delegados en abogados particulares, sin perjuicio de la contratación excepcional que se pueda realizar en los casos y forma que establezca la ley.
+
+---

@@ -1,0 +1,20 @@
+---
+layout: default
+title: Artículo 154
+parent: Participación democrática
+nav_order: 4
+---
+
+---
+
+## CAPÍTULO IV
+# Participación democrática
+
+---
+
+## Artículo 154
+
+1. Es deber del Estado garantizar la democracia ambiental. Se reconoce el derecho de participación informada en materias ambientales. Los mecanismos de participación serán determinados por ley.
+2. Todas las personas tienen derecho a acceder a la información ambiental que conste en poder o custodia del Estado. Los particulares deberán entregar la información ambiental relacionada con su actividad, en los términos que establezca la ley.
+
+---

@@ -1,0 +1,22 @@
+---
+layout: default
+title: Artículo 244
+parent: Estado regional y organización territorial
+nav_order: 58
+---
+
+---
+
+## CAPÍTULO VI
+# Estado regional y organización territorial
+
+---
+
+### Autonomía fiscal
+
+## Artículo 244
+
+1. La actividad financiera de las entidades territoriales se realizará coordinadamente entre ellas, el Estado y las autoridades competentes, las cuales deberán cooperar y colaborar entre sí y evitar la duplicidad e interferencia de funciones, velando en todo momento por la satisfacción del interés general.
+2. Lo anterior se aplicará también respecto de todas las competencias o potestades que se atribuyan a las entidades territoriales.
+
+---

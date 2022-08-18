@@ -1,0 +1,19 @@
+---
+layout: default
+title: Artículo 325
+parent: Sistemas de justicia
+nav_order: 20
+---
+
+---
+
+## CAPÍTULO IX
+# Sistemas de justicia
+
+---
+
+## Artículo 325
+
+El Sistema Nacional de Justicia gozará de autonomía financiera. Anualmente, se destinarán en la Ley de Presupuestos los fondos necesarios para su adecuado funcionamiento.
+
+---

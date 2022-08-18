@@ -1,0 +1,20 @@
+---
+layout: default
+title: Artículo 317
+parent: Sistemas de justicia
+nav_order: 12
+---
+
+---
+
+## CAPÍTULO IX
+# Sistemas de justicia
+
+---
+
+## Artículo 317
+
+1. Reclamada su intervención en la forma legal y sobre materias de su competencia, los tribunales no podrán excusarse de ejercer su función en un tiempo razonable ni aun a falta de norma jurídica expresa que resuelva el asunto sometido a su decisión.
+2. El ejercicio de la jurisdicción es indelegable.
+
+---

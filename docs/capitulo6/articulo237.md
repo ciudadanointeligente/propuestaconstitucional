@@ -1,0 +1,20 @@
+---
+layout: default
+title: Artículo 237
+parent: Estado regional y organización territorial
+nav_order: 51
+---
+
+---
+
+## CAPÍTULO VI
+# Estado regional y organización territorial
+
+---
+
+## Artículo 237
+
+1. La ley creará y regulará la administración de un Fondo para Territorios Especiales, cuyos recursos serán destinados exclusivamente a los fines para los cuales fueron creados.
+2. Asimismo, la Administración central y las entidades territoriales autónomas deberán destinar recursos propios al financiamiento de los territorios especiales respectivos.
+
+---

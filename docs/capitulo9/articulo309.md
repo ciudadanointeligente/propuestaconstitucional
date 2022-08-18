@@ -1,0 +1,21 @@
+---
+layout: default
+title: Artículo 309
+parent: Sistemas de justicia
+nav_order: 4
+---
+
+---
+
+## CAPÍTULO IX
+# Sistemas de justicia
+
+---
+
+## Artículo 309
+
+1. El Estado reconoce los sistemas jurídicos de los pueblos y naciones indígenas, los que en virtud de su derecho a la libre determinación coexisten coordinados en un plano de igualdad con el Sistema Nacional de Justicia.
+Estos deberán respetar los derechos fundamentales que establecen esta Constitución y los tratados e instrumentos internacionales sobre derechos humanos de los que Chile es parte.
+2. La ley determinará los mecanismos de coordinación, de cooperación y de resolución de conflictos de competencia entre los sistemas jurídicos indígenas y las entidades estatales.
+
+---

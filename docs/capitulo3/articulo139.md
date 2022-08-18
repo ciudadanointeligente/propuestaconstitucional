@@ -1,0 +1,23 @@
+---
+layout: default
+title: Artículo 139
+parent: Naturaleza y medioambiente
+nav_order: 13
+---
+
+---
+
+## CAPÍTULO III
+# Naturaleza y medioambiente
+
+---
+
+## Artículo 139
+
+1. Chile es un país oceánico que reconoce la existencia del maritorio como una categoría jurídica que, al igual que el territorio, debe contar con regulación normativa específica, que incorpore sus características propias en los ámbitos social, cultural, medioambiental y económico.
+2. Es deber del Estado la conservación, la preservación y el cuidado de los ecosistemas marinos y costeros continentales, insulares y antártico, propiciando las diversas vocaciones y usos asociados a ellos y asegurando, en todo caso, su preservación, conservación y restauración ecológica.
+3. Una ley establecerá la división administrativa del maritorio, su ordenación espacial, gestión integrada y los principios básicos que deberán informar los cuerpos legales que materialicen su institucionalización, mediante un trato diferenciado, autónomo y descentralizado, según corresponda, sobre la base de la equidad y justicia territorial.
+
+---
+- Evaluación de este artículo en La Constitución es Nuestra por Fundación Superación de la Pobreza
+<a target="_blank" href="https://laconstitucionesnuestra.cl/evaluaciones/verevaluaciones/11">Leer acá!</a>

@@ -1,0 +1,20 @@
+---
+layout: default
+title: Artículo 345
+parent: Sistemas de justicia
+nav_order: 40
+---
+
+---
+
+## CAPÍTULO IX
+# Sistemas de justicia
+
+---
+
+## Artículo 345
+
+1. El Consejo de la Justicia podrá funcionar en pleno o en comisiones. En ambos casos, tomará sus decisiones por la mayoría de sus integrantes en ejercicio.
+2. El Consejo se organizará desconcentradamente. La ley determinará la organización, el funcionamiento, los procedimientos de elección de integrantes del Consejo y fijará la planta, el régimen de remuneraciones y el estatuto de su personal.
+
+---

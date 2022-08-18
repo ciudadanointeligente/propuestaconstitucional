@@ -1,0 +1,21 @@
+---
+layout: default
+title: Artículo 219
+parent: Estado regional y organización territorial
+nav_order: 33
+---
+
+---
+
+## CAPÍTULO VI
+# Estado regional y organización territorial
+
+---
+
+### Región autónoma
+
+## Artículo 219
+
+La región autónoma es la entidad política y territorial dotada de personalidad jurídica de derecho público y patrimonio propio que goza de autonomía para el desarrollo de los intereses regionales, la gestión de sus recursos económicos y el ejercicio de las atribuciones legislativas, reglamentarias, ejecutivas y fiscalizadoras a través de sus órganos en el ámbito de sus competencias, con arreglo a lo dispuesto en la Constitución y la ley.
+
+---

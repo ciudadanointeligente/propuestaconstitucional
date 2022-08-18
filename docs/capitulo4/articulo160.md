@@ -1,0 +1,29 @@
+---
+layout: default
+title: Artículo 160
+parent: Participación democrática
+nav_order: 10
+---
+
+---
+
+## CAPÍTULO IV
+# Participación democrática
+
+---
+
+### Sufragio y sistema electoral
+
+## Artículo 160
+
+1. El sufragio es universal, igualitario, libre, directo, personal y secreto. Es obligatorio para quienes hayan cumplido dieciocho años y voluntario para las personas de dieciséis y diecisiete años y para las chilenas y los chilenos que vivan en el extranjero. Su ejercicio constituye un derecho y un deber cívico.
+2. Ninguna autoridad u órgano podrá impedir el ejercicio de este derecho, debiendo a su vez proporcionar todos los medios necesarios para que las personas habilitadas para sufragar puedan ejercerlo.
+3. El resguardo de la seguridad pública durante las votaciones populares corresponderá a las instituciones que indique la ley.
+4. Las chilenas y los chilenos en el exterior podrán sufragar en los plebiscitos y consultas nacionales, elecciones presidenciales y de diputadas y diputados.
+Para esto se constituirá un distrito especial exterior.
+5. Las personas extranjeras avecindadas por al menos cinco años en Chile podrán ejercer este derecho en los casos y las formas que determinen la Constitución y la ley.
+6. La ley establecerá las condiciones para asegurar el ejercicio de este derecho.
+
+---
+- Evaluación de este artículo en La Constitución es Nuestra por Opción
+<a target="_blank" href="https://laconstitucionesnuestra.cl/evaluaciones/verevaluaciones/39">Leer acá!</a>

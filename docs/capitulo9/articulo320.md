@@ -1,0 +1,20 @@
+---
+layout: default
+title: Artículo 320
+parent: Sistemas de justicia
+nav_order: 15
+---
+
+---
+
+## CAPÍTULO IX
+# Sistemas de justicia
+
+---
+
+## Artículo 320
+
+1. El acceso a la función jurisdiccional será gratuito, sin perjuicio de las actuaciones judiciales y sanciones procesales establecidas por la ley.
+2. La justicia arbitral será siempre voluntaria. La ley no podrá establecer arbitrajes forzosos.
+
+---

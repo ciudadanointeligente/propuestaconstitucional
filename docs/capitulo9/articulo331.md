@@ -1,0 +1,20 @@
+---
+layout: default
+title: Artículo 331
+parent: Sistemas de justicia
+nav_order: 26
+---
+
+---
+
+## CAPÍTULO IX
+# Sistemas de justicia
+
+---
+
+## Artículo 331
+
+1. Son tribunales de instancia los civiles, penales, de familia, laborales, de competencia común o mixtos, administrativos, ambientales, vecinales, de ejecución de pena y los demás que establezcan la Constitución y ley.
+2. La organización, las atribuciones, la competencia y el número de juezas o jueces que integran estos tribunales son determinados por la ley.
+
+---

@@ -1,0 +1,20 @@
+---
+layout: default
+title: Artículo 319
+parent: Sistemas de justicia
+nav_order: 14
+---
+
+---
+
+## CAPÍTULO IX
+# Sistemas de justicia
+
+---
+
+## Artículo 319
+
+1. Las sentencias deberán ser siempre fundadas y redactadas en un lenguaje claro e inclusivo. La ley podrá establecer excepciones al deber de fundamentación de las resoluciones judiciales.
+2. Todas las etapas de los procedimientos y las resoluciones judiciales son públicas. Excepcionalmente, la ley podrá establecer su reserva o secreto en casos calificados.
+
+---

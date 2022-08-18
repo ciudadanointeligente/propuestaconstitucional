@@ -1,0 +1,20 @@
+---
+layout: default
+title: Artículo 318
+parent: Sistemas de justicia
+nav_order: 13
+---
+
+---
+
+## CAPÍTULO IX
+# Sistemas de justicia
+
+---
+
+## Artículo 318
+
+1. Para hacer ejecutar las resoluciones y practicar o hacer practicar las actuaciones que determine la ley, los tribunales de justicia podrán impartir órdenes o instrucciones directas a la fuerza pública. Estas deben cumplir lo mandatado de forma rápida y expedita, sin que puedan calificar su fundamento, oportunidad o legalidad.
+2. Las sentencias dictadas contra el Estado de Chile por tribunales internacionales de derechos humanos cuya jurisdicción ha sido reconocida por este serán cumplidas por los tribunales de justicia conforme al procedimiento establecido por la ley, aun si aquellas contravienen una sentencia firme pronunciada por estos.
+
+---

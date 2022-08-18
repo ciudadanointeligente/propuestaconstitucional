@@ -1,0 +1,19 @@
+---
+layout: default
+title: Artículo 132
+parent: Naturaleza y medioambiente
+nav_order: 6
+---
+
+---
+
+## CAPÍTULO III
+# Naturaleza y medioambiente
+
+---
+
+## Artículo 132
+
+El Estado, a través de un sistema nacional de áreas protegidas, único, integral y de carácter técnico, debe garantizar la preservación, restauración y conservación de espacios naturales. Asimismo, debe monitorear y mantener información actualizada relativa a los atributos de dichas áreas y garantizar la participación de las comunidades locales y entidades territoriales.
+
+---

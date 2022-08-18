@@ -1,0 +1,20 @@
+---
+layout: default
+title: Artículo 279
+parent: Poder ejecutivo
+nav_order: 1
+---
+
+---
+
+## CAPÍTULO VIII
+# Poder ejecutivo
+
+---
+
+## Artículo 279
+
+1. El gobierno y la administración del Estado corresponden a la Presidenta o al Presidente de la República, quien ejerce la jefatura de Estado y la jefatura de Gobierno.
+2. El 5 de julio de cada año dará cuenta al país del estado administrativo y político de la república ante el Congreso de Diputadas y Diputados y la Cámara de las Regiones, en sesión conjunta.
+
+---

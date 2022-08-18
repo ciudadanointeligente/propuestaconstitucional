@@ -1,0 +1,19 @@
+---
+layout: default
+title: Artículo 285
+parent: Poder ejecutivo
+nav_order: 7
+---
+
+---
+
+## CAPÍTULO VIII
+# Poder ejecutivo
+
+---
+
+## Artículo 285
+
+Cuando por enfermedad, ausencia del territorio de la república u otro grave motivo, la Presidenta o el Presidente de la República no pudiera ejercer su cargo, le subrogará, con el título de Vicepresidenta o Vicepresidente de la República, la ministra o el ministro de Estado que corresponda, según el orden de precedencia legal.
+
+---

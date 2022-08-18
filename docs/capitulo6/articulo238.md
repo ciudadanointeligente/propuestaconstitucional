@@ -1,0 +1,19 @@
+---
+layout: default
+title: Artículo 238
+parent: Estado regional y organización territorial
+nav_order: 52
+---
+
+---
+
+## CAPÍTULO VI
+# Estado regional y organización territorial
+
+---
+
+## Artículo 238
+
+En el territorio especial de Rapa Nui, el Estado garantiza el derecho a la libre determinación y autonomía del pueblo nación polinésico Rapanui, asegurando los medios para financiar y promover su desarrollo, protección y bienestar en virtud del Acuerdo de Voluntades firmado en 1888, por el cual se incorpora a Chile. Se reconoce al pueblo Rapanui la titularidad colectiva de los derechos sobre el territorio con excepción de los derechos sobre tierras individuales de sus miembros. Un estatuto de autonomía regulará el territorio Rapa Nui.
+
+---

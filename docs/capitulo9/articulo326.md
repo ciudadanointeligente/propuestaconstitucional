@@ -1,0 +1,20 @@
+---
+layout: default
+title: Artículo 326
+parent: Sistemas de justicia
+nav_order: 21
+---
+
+---
+
+## CAPÍTULO IX
+# Sistemas de justicia
+
+---
+
+## Artículo 326
+
+Los tribunales deberán cumplir con el principio de proximidad e itinerancia.
+Con la finalidad de garantizar el acceso a la justicia y a la tutela jurisdiccional efectiva, podrán funcionar en localidades situadas fuera de su lugar de asiento, siempre dentro del territorio de su competencia.
+
+---

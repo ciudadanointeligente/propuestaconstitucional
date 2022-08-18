@@ -1,0 +1,21 @@
+---
+layout: default
+title: Artículo 19
+parent: Derechos fundamentales y garantías
+nav_order: 3
+---
+
+---
+
+## CAPÍTULO II
+# Derechos fundamentales y garantías
+
+---
+
+## Artículo 19
+
+1. El Estado debe respetar, promover, proteger y garantizar el pleno ejercicio y satisfacción de los derechos fundamentales, sin discriminación, así como adoptar las medidas necesarias para eliminar todos los obstáculos que entorpezcan su realización.
+2. Para su protección, las personas gozan de garantías eficaces, oportunas, pertinentes y universales.
+3. Toda persona, institución, asociación o grupo deberá respetar los derechos fundamentales, conforme a la Constitución y la ley.
+
+---

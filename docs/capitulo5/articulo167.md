@@ -1,0 +1,25 @@
+---
+layout: default
+title: Artículo 167
+parent: Buen gobierno y función pública
+nav_order: 3
+---
+
+---
+
+## CAPÍTULO V 
+# Buen gobierno y función pública
+
+---
+
+## Artículo 167
+
+1. La Constitución asegura a todas las personas la transparencia de la información pública facilitando su acceso de manera comprensible y oportuna, periódica, proactiva, legible y en formatos abiertos, en los plazos y condiciones que la ley establezca. El principio de transparencia exige a los órganos del Estado que la información pública sea puesta a disposición de toda persona que la requiera y procurando su oportuna entrega y accesibilidad.
+2. Es pública la información elaborada con presupuesto público y toda otra información que obre en poder o custodia del Estado, cualquiera sea su formato, soporte, fecha de creación, origen, clasificación o procesamiento.
+3. Toda institución que desarrolle una función pública o que administre recursos públicos deberá dar cumplimiento al principio de transparencia.
+4. Solo la ley puede establecer la reserva o el secreto de dicha información, por razones de seguridad del Estado o el interés nacional, protección de los
+derechos de las personas, datos personales o cuando su publicidad afecte el debido cumplimiento de las funciones de la respectiva institución, conforme a sus fines.
+
+---
+- Evaluación de este artículo en La Constitución es Nuestra por María Sotomayor ICP-UC
+<a target="_blank" href="https://laconstitucionesnuestra.cl/evaluaciones/verevaluaciones/85">Leer acá!</a>

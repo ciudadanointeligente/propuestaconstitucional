@@ -1,0 +1,19 @@
+---
+layout: default
+title: Artículo 150
+parent: Naturaleza y medioambiente
+nav_order: 24
+---
+
+---
+
+## CAPÍTULO III
+# Naturaleza y medioambiente
+
+---
+
+## Artículo 150
+
+La dirección de la Defensoría de la Naturaleza estará a cargo de una defensora o un defensor de la naturaleza, quien será designado en sesión conjunta del Congreso de Diputadas y Diputados y de la Cámara de las Regiones, por la mayoría de sus integrantes en ejercicio, a partir de una terna elaborada por las organizaciones ambientales de la sociedad civil, en la forma que determine la ley.
+
+---

@@ -1,0 +1,21 @@
+---
+layout: default
+title: Artículo 349
+parent: Sistemas de justicia
+nav_order: 44
+---
+
+---
+
+## CAPÍTULO IX
+# Sistemas de justicia
+
+---
+
+## Artículo 349
+
+1. Los procedimientos disciplinarios serán conocidos y resueltos por una comisión compuesta por cinco integrantes del Consejo que se elegirán por sorteo, decisión que será revisable por su pleno a petición del afectado.
+2. La resolución del Consejo que ponga término al procedimiento será impugnable ante la Corte Constitucional.
+3. Las decisiones adoptadas conforme a los incisos anteriores no podrán ser revisadas ni impugnadas ante otros órganos del Sistema Nacional de Justicia.
+
+---

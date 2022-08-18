@@ -1,0 +1,19 @@
+---
+layout: default
+title: Artículo 88
+parent: Derechos fundamentales y garantías
+nav_order: 72
+---
+
+---
+
+## CAPÍTULO II
+# Derechos fundamentales y garantías
+
+---
+
+## Artículo 88
+
+Toda persona tiene derecho a la protección y promoción de la seguridad informática. El Estado y los particulares deberán adoptar las medidas idóneas y necesarias que garanticen la integridad, confidencialidad, disponibilidad y resiliencia de la información que contengan los sistemas informáticos que administren, salvo los casos expresamente señalados por la ley.
+
+---

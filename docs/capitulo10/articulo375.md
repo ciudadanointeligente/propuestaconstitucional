@@ -1,0 +1,20 @@
+---
+layout: default
+title: Artículo 375
+parent: Órganos autónomos constitucionales
+nav_order: 27
+---
+
+---
+
+## CAPÍTULO X
+# Órganos autónomos constitucionales
+
+---
+
+## Artículo 375
+
+1. La dirección superior de la Defensoría Penal Pública será ejercida por la defensora o el defensor nacional, quien durará seis años en su cargo, sin reelección.
+2. Se nombrará en sesión conjunta del Congreso de Diputadas y Diputados y de la Cámara de las Regiones, por la mayoría de sus integrantes en ejercicio, a partir de una terna propuesta por la Presidenta o el Presidente de la República, conforme al procedimiento y los requisitos que determine la ley.
+
+---

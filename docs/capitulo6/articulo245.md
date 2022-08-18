@@ -1,0 +1,21 @@
+---
+layout: default
+title: Artículo 245
+parent: Estado regional y organización territorial
+nav_order: 59
+---
+
+---
+
+## CAPÍTULO VI
+# Estado regional y organización territorial
+
+---
+
+## Artículo 245
+
+1. Las entidades territoriales autónomas cuentan con autonomía financiera en sus ingresos y gastos para el cumplimiento de sus competencias, la cual deberá ajustarse a los principios de suficiencia, coordinación, equilibrio presupuestario, solidaridad y compensación interterritorial, sostenibilidad, responsabilidad y eficiencia económica.
+2. La Ley de Presupuestos deberá propender a que, progresivamente, una parte significativa del gasto público sea ejecutado a través de los gobiernos subnacionales, en función de las responsabilidades propias que debe asumir cada nivel de gobierno.
+3. El deber y la facultad de velar por la estabilidad macroeconómica y fiscal serán centralizados.
+
+---

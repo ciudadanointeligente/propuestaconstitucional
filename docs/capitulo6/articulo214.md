@@ -1,0 +1,19 @@
+---
+layout: default
+title: Artículo 214
+parent: Estado regional y organización territorial
+nav_order: 28
+---
+
+---
+
+## CAPÍTULO VI
+# Estado regional y organización territorial
+
+---
+
+## Artículo 214
+
+Las comunas autónomas, a fin de cumplir con sus funciones y ejercer sus atribuciones, podrán crear empresas, o participar en ellas, ya sea individualmente o asociadas con otras entidades públicas o privadas, previa autorización por ley general o especial. Las empresas públicas municipales tendrán personalidad jurídica y patrimonio propio y se regirán en conformidad con lo dispuesto en la Constitución y la ley.
+
+---

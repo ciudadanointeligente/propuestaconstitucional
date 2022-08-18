@@ -1,0 +1,25 @@
+---
+layout: default
+title: Artículo 24
+parent: Derechos fundamentales y garantías
+nav_order: 8
+---
+
+---
+
+## CAPÍTULO II
+# Derechos fundamentales y garantías
+
+---
+
+## Artículo 24
+
+1. Las víctimas y la comunidad tienen derecho al esclarecimiento y conocimiento de la verdad respecto de graves violaciones a los derechos humanos, especialmente cuando constituyan crímenes de lesa humanidad, crímenes de guerra, genocidio o despojo territorial.
+2. La desaparición forzada, la tortura y otras penas o tratos crueles, inhumanos o degradantes, los crímenes de guerra, los crímenes de lesa humanidad, el genocidio y el crimen de agresión son imprescriptibles e inamnistiables.
+3. Son obligaciones del Estado prevenir, investigar, sancionar e impedir la impunidad. Tales crímenes deben ser investigados de oficio, con la debida diligencia, seriedad, rapidez, independencia e imparcialidad. La investigación de estos hechos no será susceptible de impedimento alguno.
+4. Las víctimas de violaciones a los derechos humanos tienen derecho a la reparación integral.
+5. El Estado garantiza el derecho a la memoria y su relación con las garantías de no repetición y los derechos a la verdad, justicia y reparación integral. Es deber del Estado preservar la memoria y garantizar el acceso a los archivos y documentos, en sus distintos soportes y contenidos. Los sitios de memoria y memoriales son objeto de especial protección y se asegura su preservación y sostenibilidad.
+
+---
+- Evaluación de este artículo en La Constitución es Nuestra por Amnistía Internacional
+<a target="_blank" href="https://laconstitucionesnuestra.cl/evaluaciones/verevaluaciones/78">Leer acá!</a>

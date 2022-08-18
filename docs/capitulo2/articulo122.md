@@ -1,0 +1,20 @@
+---
+layout: default
+title: Artículo 122
+parent: Derechos fundamentales y garantías
+nav_order: 106
+---
+
+---
+
+## CAPÍTULO II
+# Derechos fundamentales y garantías
+
+---
+
+## Artículo 122
+
+1. Toda persona que haya sido condenada por sentencia dictada con error injustificado o falta de servicio judicial tendrá derecho a ser indemnizada de todos los perjuicios que el proceso y la decisión condenatoria le hayan causado.
+2. Si todo o parte del daño deriva de la privación de libertad, la compensación, que siempre se podrá exigir conforme al artículo anterior, será imputada a la presente indemnización. La misma indemnización procederá por las actuaciones o decisiones administrativas derivadas del funcionamiento judicial que, con falta de servicio, generen daño.
+
+---

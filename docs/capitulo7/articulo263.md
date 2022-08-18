@@ -1,0 +1,28 @@
+---
+layout: default
+title: Artículo 263
+parent: Poder legislativo
+nav_order: 13
+---
+
+---
+
+## CAPÍTULO VII
+# Poder legislativo
+
+---
+
+### Sesiones conjuntas del Congreso de Diputadas y Diputados y de la Cámara de las Regiones
+
+## Artículo 263
+
+El Congreso de Diputadas y Diputados y la Cámara de las Regiones se reunirán en sesión conjunta para:
+- a) Inaugurar el año legislativo.
+- b) Tomar el juramento o promesa de la Presidenta o el Presidente electo al momento de asumir el cargo.
+- c) Recibir la cuenta pública anual de la Presidenta o el Presidente.
+- d) Elegir a la Presidenta o al Presidente en el caso de vacancia, si faltaran menos de dos años para la próxima elección.
+- e) Autorizar o prorrogar los estados de excepción constitucional según corresponda.
+- f) Decidir los nombramientos que conforme a esta Constitución corresponda, garantizando un estricto escrutinio de la idoneidad de las candidatas y los candidatos para el cargo correspondiente.
+- g) Los demás casos establecidos en esta Constitución.
+
+---

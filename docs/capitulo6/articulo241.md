@@ -1,0 +1,22 @@
+---
+layout: default
+title: Artículo 241
+parent: Estado regional y organización territorial
+nav_order: 55
+---
+
+---
+
+## CAPÍTULO VI
+# Estado regional y organización territorial
+
+---
+
+### Ruralidad
+
+## Artículo 241
+
+1. El Estado promueve el desarrollo integral de los territorios rurales y reconoce la ruralidad como una expresión territorial donde las formas de vida y producción se desarrollan en torno a la relación directa de las personas y comunidades con la tierra, el agua y el mar.
+2. Asimismo, facilitará la participación de las comunidades rurales a nivel local y regional en el diseño y la implementación de programas y políticas públicas que les afectan o conciernen.
+
+---

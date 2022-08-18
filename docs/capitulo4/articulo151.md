@@ -1,0 +1,21 @@
+---
+layout: default
+title: Artículo 151
+parent: Participación democrática
+nav_order: 1
+---
+
+---
+
+## CAPÍTULO IV
+# Participación democrática
+
+---
+
+## Artículo 151
+
+1. En Chile, la democracia se ejerce en forma directa, participativa, comunitaria y representativa.
+2. Es deber del Estado promover y garantizar la adopción de medidas para la participación efectiva de toda la sociedad en el proceso político y el pleno ejercicio de la democracia.
+3. La actividad política organizada contribuye a la expresión de la voluntad popular y su funcionamiento respetará los principios de autonomía, probidad, transparencia financiera y democracia interna.
+
+---

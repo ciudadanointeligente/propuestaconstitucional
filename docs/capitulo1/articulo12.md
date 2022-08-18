@@ -1,0 +1,20 @@
+---
+layout: default
+title: Artículo 12
+parent: Principios y disposiciones generales
+nav_order: 12
+---
+
+---
+
+## CAPÍTULO I 
+# Principios y disposiciones generales
+
+---
+
+## Artículo 12
+
+1. El Estado es plurilingüe. Su idioma oficial es el castellano. Los idiomas indígenas son oficiales en sus territorios y en zonas de alta densidad poblacional de cada pueblo y nación indígena. El Estado promueve su conocimiento, revitalización, valoración y respeto.
+2. Se reconoce la lengua de señas chilena como lengua natural y oficial de las personas sordas, así como sus derechos lingüísticos en todos los ámbitos de la vida social.
+
+---

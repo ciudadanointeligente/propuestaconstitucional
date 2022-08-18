@@ -1,0 +1,27 @@
+---
+layout: default
+title: Artículo 254
+parent: Poder legislativo
+nav_order: 4
+---
+
+---
+
+## CAPÍTULO VII
+# Poder legislativo
+
+---
+
+### Cámara de las Regiones
+
+## Artículo 254
+
+1. La Cámara de las Regiones es un órgano deliberativo, paritario y plurinacional de representación regional encargado de concurrir a la formación de las leyes de acuerdo regional y de ejercer las demás facultades encomendadas por esta Constitución.
+2. Sus integrantes se denominan representantes regionales y se eligen en votación popular, conjuntamente con las autoridades comunales y regionales, tres años después de la elección presidencial y del Congreso.
+3. La ley determinará el número de representantes regionales que se elegirán por región, el que deberá ser el mismo para cada región y en ningún caso inferior a tres, asegurando que la integración final del órgano respete el principio de paridad. Asimismo, la ley regulará la integración de los escaños reservados en la Cámara de las Regiones.
+4. La ley especificará sus derechos y obligaciones especiales, las que, en todo caso, deberán incluir la obligación de rendir cuenta periódicamente ante la asamblea regional que representa. También podrán ser especialmente convocadas y convocados al efecto.
+5. La Cámara de las Regiones no podrá fiscalizar los actos del Gobierno ni la institucionalidad que de él dependan.
+
+---
+- Evaluación de este artículo en La Constitución es Nuestra por Sergio Huertas Hernández - Universidad Católica
+<a target="_blank" href="https://laconstitucionesnuestra.cl/evaluaciones/verevaluaciones/58">Leer acá!</a>

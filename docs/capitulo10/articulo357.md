@@ -1,0 +1,22 @@
+---
+layout: default
+title: Artículo 357
+parent: Órganos autónomos constitucionales
+nav_order: 9
+---
+
+---
+
+## CAPÍTULO X
+# Órganos autónomos constitucionales
+
+---
+
+### Banco Central
+
+## Artículo 357
+
+1. El Banco Central es un órgano autónomo con personalidad jurídica y patrimonio propio, de carácter técnico, encargado de formular y conducir la política monetaria.
+2. La ley regulará su organización, atribuciones y sistemas de control, así como la determinación de instancias de coordinación entre el Banco y el Gobierno.
+
+---

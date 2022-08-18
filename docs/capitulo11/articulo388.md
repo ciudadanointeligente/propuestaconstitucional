@@ -1,0 +1,20 @@
+---
+layout: default
+title: Artículo 388
+parent: Reforma y reemplazo de la constitución
+nav_order: 7
+---
+
+---
+
+## CAPÍTULO XI
+# Reforma y reemplazo de la constitución
+
+---
+
+## Artículo 388
+
+1. Entregada la propuesta de nueva Constitución, deberá convocarse a un referéndum para su aprobación o rechazo. Para que la propuesta sea aprobada, deberá obtener el voto favorable de más de la mitad de los sufragios válidamente emitidos.
+2. Si la propuesta de nueva Constitución fuera aprobada en el plebiscito, se procederá a su promulgación y correspondiente publicación.
+
+---

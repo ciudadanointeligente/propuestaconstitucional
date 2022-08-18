@@ -1,0 +1,19 @@
+---
+layout: default
+title: Artículo 361
+parent: Órganos autónomos constitucionales
+nav_order: 13
+---
+
+---
+
+## CAPÍTULO X
+# Órganos autónomos constitucionales
+
+---
+
+## Artículo 361
+
+El Banco Central rendirá cuenta periódica al Congreso de Diputadas y Diputados y a la Cámara de las Regiones en sesión conjunta, sobre la ejecución de las políticas a su cargo, las medidas y normas generales que adopte en el ejercicio de sus funciones y atribuciones y los demás asuntos que se le soliciten, mediante informes u otros mecanismos que determine la ley.
+
+---

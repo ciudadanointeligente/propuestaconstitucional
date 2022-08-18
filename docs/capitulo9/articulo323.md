@@ -1,0 +1,20 @@
+---
+layout: default
+title: Artículo 323
+parent: Sistemas de justicia
+nav_order: 18
+---
+
+---
+
+## CAPÍTULO IX
+# Sistemas de justicia
+
+---
+
+## Artículo 323
+
+1. Es deber del Estado promover e implementar mecanismos colaborativos de resolución de conflictos que garanticen la participación activa y el diálogo.
+2. Solo la ley podrá determinar los requisitos y efectos de los mecanismos alternativos de resolución de conflictos.
+
+---

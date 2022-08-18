@@ -1,0 +1,19 @@
+---
+layout: default
+title: Artículo 186
+parent: Buen gobierno y función pública
+nav_order: 22
+---
+
+---
+
+## CAPÍTULO V 
+# Buen gobierno y función pública
+
+---
+
+## Artículo 186
+
+El Estado fijará una política nacional portuaria, orientada por los principios de eficiencia en el uso del borde costero; responsabilidad ambiental, con especial énfasis en el cuidado de la naturaleza y bienes comunes naturales; participación pública en los recursos que genere la actividad; vinculación con el territorio y las comunidades en las cuales se emplacen los recintos portuarios; reconocimiento de la carrera profesional portuaria como trabajo de alto riesgo, y colaboración entre recintos e infraestructura portuaria para asegurar el oportuno abastecimiento de las comunidades.
+
+---
