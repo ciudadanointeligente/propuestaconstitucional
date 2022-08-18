@@ -1,5 +1,10 @@
 site_name: Propuesta Constitucional
-
+site_url: https://nuevaconstitucion.laconstitucionesnuestra.cl
+site_author: Fundación Ciudadanía Inteligente
+site_description: >-
+  Propuesta constitucional para el plebiscito del 4 de septiembre
+repo_name: ciudadanointeligente/propuestaconstitucional
+repo_url: https://github.com/ciudadanointeligente/propuestaconstitucional
 
 theme:
   name: material
