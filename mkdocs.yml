@@ -15,6 +15,7 @@ theme:
     accent: blue
 
 nav:
+  - Inicio: index.md
   - Introducción: introduccion.md
   - Preámbulo: preambulo.md
  
