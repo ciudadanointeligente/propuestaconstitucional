@@ -8,10 +8,16 @@ theme:
   favicon: assets/logo.png
   font:
     text: Raleway
+  features:
+    - navigation.top
 
   palette:
     primary: white
     accent: blue
+
+plugins:
+  - search:
+      lang: es
 
 nav:
   - Inicio: index.md
