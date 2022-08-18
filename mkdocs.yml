@@ -1,4 +1,5 @@
 site_name: Propuesta Constitucional
+site_url: https://nuevaconstitucion.laconstitucionesnuestra.cl
 
 theme:
   name: material
