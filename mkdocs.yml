@@ -19,9 +19,20 @@ plugins:
   - search:
       lang: es
 
+
+extra:
+  social:
+    - icon: fontawesome/brands/twitter 
+      link: https://twitter.com/ciudadania_i
+  
+    - icon: fontawesome/brands/instagram 
+      link: https://www.instagram.com/ciudadaniai/
+
+    - icon: fontawesome/brands/github 
+      link: https://github.com/ciudadanointeligente
+
 nav:
   - Inicio: index.md
-  - Introducción: introduccion.md
   - Preámbulo: preambulo.md
  
   - Principios y disposiciones generales:
