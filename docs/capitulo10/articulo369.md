@@ -18,11 +18,17 @@ nav_order: 21
 2. El Comité deberá fijar la política de persecución penal y los criterios de actuación para el cumplimiento de sus objetivos, velando por la
 transparencia, la objetividad, los intereses de la sociedad y el respeto de los derechos humanos.
 3. Son atribuciones del Comité del Ministerio Público las siguientes:
-    - a) Asesorar al fiscal nacional en la dirección del organismo, velando por el cumplimiento de sus objetivos.
-    - b) Evaluar y calificar permanentemente el desempeño de fiscales y funcionarios del Ministerio Público.
-    - c) Ejercer la potestad disciplinaria respecto de las funcionarias y los funcionarios del Ministerio Público, en conformidad con la ley.
-    - d) Designar al director ejecutivo nacional.
-    - e) Proponer al fiscal nacional las ternas para el nombramiento de los fiscales adjuntos.
-    - f) Las demás atribuciones que establezcan la Constitución y la ley.
+
+a) Asesorar al fiscal nacional en la dirección del organismo, velando por el cumplimiento de sus objetivos.
+
+b) Evaluar y calificar permanentemente el desempeño de fiscales y funcionarios del Ministerio Público.
+
+c) Ejercer la potestad disciplinaria respecto de las funcionarias y los funcionarios del Ministerio Público, en conformidad con la ley.
+
+d) Designar al director ejecutivo nacional.
+
+e) Proponer al fiscal nacional las ternas para el nombramiento de los fiscales adjuntos.
+
+f) Las demás atribuciones que establezcan la Constitución y la ley.
 
 ---
