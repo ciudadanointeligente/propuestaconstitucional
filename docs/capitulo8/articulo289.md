@@ -26,7 +26,6 @@ nav_order: 11
 10. Será necesario el acuerdo del Poder Legislativo para el retiro o denuncia de un tratado que haya aprobado y para el retiro de una reserva que haya considerado al aprobarlo. La ley fijará el plazo para su pronunciamiento.
 11. Serán públicos, conforme a las reglas generales, los hechos que digan relación con el tratado internacional, incluidas sus negociaciones, su entrada en vigor, la formulación y el retiro de reservas, las declaraciones interpretativas, las objeciones a una reserva y su retiro, la denuncia o el retiro del tratado, la suspensión, la terminación y su nulidad.
 12. Al negociar los tratados o instrumentos internacionales de inversión o similares, quien ejerza la Presidencia de la República procurará que las instancias de resolución de controversias sean imparciales, independientes y preferentemente permanentes.
-13. Quienes habiten el territorio o las chilenas y los chilenos que se encuentren en el exterior y hayan cumplido los dieciséis años de edad tendrán iniciativa para solicitar a la Presidenta o al Presidente de la República la suscripción de tratados internacionales de derechos humanos de acuerdo con los requisitos
-que establezca la ley, la que definirá el plazo dentro del cual la o el Presidente deberá dar respuesta a la referida solicitud.
+13. Quienes habiten el territorio o las chilenas y los chilenos que se encuentren en el exterior y hayan cumplido los dieciséis años de edad tendrán iniciativa para solicitar a la Presidenta o al Presidente de la República la suscripción de tratados internacionales de derechos humanos de acuerdo con los requisitos que establezca la ley, la que definirá el plazo dentro del cual la o el Presidente deberá dar respuesta a la referida solicitud.
 
 ---
